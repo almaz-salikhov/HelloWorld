@@ -1,0 +1,15 @@
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/bin/Debug/net7.0/Ex001_NewConsole
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/bin/Debug/net7.0/Ex001_NewConsole.deps.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/bin/Debug/net7.0/Ex001_NewConsole.runtimeconfig.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/bin/Debug/net7.0/Ex001_NewConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/bin/Debug/net7.0/Ex001_NewConsole.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.csproj.AssemblyReference.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.AssemblyInfoInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.AssemblyInfo.cs
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.csproj.CoreCompileInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/refint/Ex001_NewConsole.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/Ex001_NewConsole.genruntimeconfig.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Coding/Examples/Ex001_NewConsole/obj/Debug/net7.0/ref/Ex001_NewConsole.dll
